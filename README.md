@@ -1,6 +1,6 @@
 # Projeto de Análise dos Repasses do PNAE e Evasão Escolar
 
-Este projeto investiga a possível relação entre os valores per capita repassados pelo **Programa Nacional de Alimentação Escolar (PNAE)** e a **taxa de evasão escolar no ensino médio** nos municípios do Rio Grande do Sul no ano de 2015. A análise foi desenvolvida com base em dados públicos e organizada em etapas de coleta, limpeza, exploração e visualização.
+Este projeto investiga a possível relação entre os valores per capita repassados pelo **Programa Nacional de Alimentação Escolar (PNAE)** e a **taxa de evasão escolar no ensino médio** nos municípios do Rio Grande do Sul no ano de 2015, através do **ENEM por Escola**. A análise foi desenvolvida com base em dados públicos e organizada em etapas de coleta, limpeza, exploração e visualização.
 
 ## Desenvolvedoras:
 
